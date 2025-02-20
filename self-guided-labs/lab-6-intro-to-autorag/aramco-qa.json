@@ -1,0 +1,219 @@
+[
+  {
+    "question": "What was Aramco's total liquids production in 2022?",
+    "correct_answer": "11.5 mmbpd",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's total hydrocarbon production in 2022?",
+    "correct_answer": "13.6 mmboed",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What is Aramco's net chemicals production capacity per year?",
+    "correct_answer": "56.3 million tons",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "How many employees did Aramco have in 2022?",
+    "correct_answer": "70,496",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's capital expenditure in 2022?",
+    "correct_answer": "SAR 141 billion ($38 billion)",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's net debt in 2022?",
+    "correct_answer": "SAR (123) billion ($(33) billion)",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's average capital employed in 2022?",
+    "correct_answer": "SAR 1,925 billion ($514 billion)",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's upstream carbon intensity in 2022?",
+    "correct_answer": "10.3 kg of CO2e/boe",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's operational reliability percentage in 2022?",
+    "correct_answer": "99.9%",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What were Aramco's Scope 1 emissions in 2022?",
+    "correct_answer": "55.7 million metric tons of CO2e",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What were Aramco's Scope 2 emissions in 2022?",
+    "correct_answer": "16.1 million metric tons of CO2e",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "How much power did Aramco supply to the national grid in 2022?",
+    "correct_answer": "1.3 gigawatts",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's freshwater consumption in 2022?",
+    "correct_answer": "93.60 million cubic meters",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's lost time injuries/illnesses rate in 2022?",
+    "correct_answer": "0.014 per 200,000 work hours",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's total recordable case frequency in 2022?",
+    "correct_answer": "0.050 per 200,000 work hours",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "How many Tier 1 process safety events did Aramco have in 2022?",
+    "correct_answer": "11",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What amount of dividends did Aramco pay in 2022?",
+    "correct_answer": "SAR 281 billion ($75 billion)",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's Return on Average Capital Employed (ROACE) in 2022?",
+    "correct_answer": "31.6%",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What percentage of Aramco's crude oil production was utilized by downstream operations in 2022?",
+    "correct_answer": "44%",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was the value of Aramco's sustainability fund established in 2022?",
+    "correct_answer": "SAR 5.6 billion ($1.5 billion)",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What is Aramco's targeted blue ammonia production capacity by 2030?",
+    "correct_answer": "11 million tons per annum",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What percentage stake did Aramco acquire in a Polish refinery in 2022?",
+    "correct_answer": "30%",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's crude oil reserves as of December 31, 2022?",
+    "correct_answer": "200.8 billion barrels",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's natural gas reserves as of December 31, 2022?",
+    "correct_answer": "201.9 tscf",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was Aramco's NGL reserves as of December 31, 2022?",
+    "correct_answer": "25.2 billion barrels",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "When did Aramco achieve its highest single-day crude oil production?",
+    "correct_answer": "2020 (12.1 mmbpd)",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "When did Aramco achieve its highest single-day natural gas production record?",
+    "correct_answer": "2022 (11.3 bscfd)",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "When is the Jafurah unconventional gas field expected to commence production?",
+    "correct_answer": "2025",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What is the expected gas production from Jafurah field by 2030?",
+    "correct_answer": "2.0 bscfd",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What percentage of Aramco Gas Pipelines Company was sold to investors in 2022?",
+    "correct_answer": "49%",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  },
+  {
+    "question": "What was the value of the Aramco Gas Pipelines Company deal?",
+    "correct_answer": "SAR 58.1 billion ($15.5 billion)",
+    "correct_answer_document_ids": [
+      "ara-2022-overview-english.pdf"
+    ]
+  }
+]
