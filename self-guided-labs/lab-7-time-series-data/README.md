@@ -27,7 +27,7 @@ Let's get started
 4. Click `Work with data and models in Python or R notebooks`
 ![Asset](./images/wx-import-notebook2.png)
 5. On the left-hand panel, click `URL` and give the asset a name e.g., `time-series-data` and paste the following URL:
-   - https://github.ibm.com/jama/Aramco-SPE-Hands-on-Labs/blob/main/self-guided-labs/lab-7-time-series-data/time-series-data.ipynb
+   - https://github.com/muqbilk/watsonx-SPE-Lab/blob/main/self-guided-labs/lab-7-time-series-data/time-series-data.ipynb
 
 6. Click `Create` and wait for the notebook and environment to initialise, this can take a few minutes.
 
