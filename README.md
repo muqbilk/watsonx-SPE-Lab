@@ -8,7 +8,7 @@ This hands-on workshop is designed to help you explore the [IBM watsonx.ai](http
 
 **Workshop details:**
 - **Dates**: 25th-27th February 2025
-- **Contacts**: [Megbil Alkhalaf](muqbil@ibm.com), [Jama Ahmed Saed](jama@ibm.com), [Abdullah Alhassoun](Abdullah.Alhassoun@ibm.com)
+- **Contacts**: [Muqbil Alkhalaf](muqbil@ibm.com), [Jama Ahmed Saed](jama@ibm.com), [Abdullah Alhassoun](Abdullah.Alhassoun@ibm.com)
 
 ## (Optional) Pre-requisites
 Prior to attending the workshop - you may find it useful to review the compiled [reading material](reading-material.md) (including video series) to familiarise yourself with IBM watsonx.ai, the basics of Foundation Models and Generative AI and IBM's Foundation Model Strategy.
