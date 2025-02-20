@@ -87,3 +87,11 @@ Let's go ahead and do that.
 ![Login](./images/studentid-agadd.png)
 
 5. Now you have successfully enabled the provided API Key and can use it in your application.
+
+## Get your project ID
+
+  Navigate to `Manage` tab and copy your Porject ID 
+  
+  ![Login](./images/Project-ID.png)
+  
+
