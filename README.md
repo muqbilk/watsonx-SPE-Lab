@@ -1,6 +1,6 @@
 # Saudi Aramco - Society of Petroleum Engineers (SPE) Technical Hands-on Labs
 
-![screenshot](./images/king-of-s-wt-logo.png)
+![screenshot](./images/king-of-s-wt-logo2.png)
 
 ## Welcome to the IBM watsonx.ai Workshop!
 
