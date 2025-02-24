@@ -22,12 +22,17 @@ The notebook includes various prompt engineering exercises using different scena
   - **Task 5:** PII removal
   - **Task 6:** Medical data interpretation
 
-## Prompt Engineering Challenge :point_down::skin-tone-2:
+### Getting Started
 
-# [Jupyter Notebook](../lab-3-prompt-engineering/prompt-engineering.ipynb)
+1. To get started, first navigate to the watsonx.ai Project you created in Lab 0.
+2. Click the `Assets` tab, click `New Asset`.
+3. On the left-hand panel, click `Work with models`:
+![Asset](./images/wx-import-notebook.png)
+4. Click `Work with data and models in Python or R notebooks`
+![Asset](./images/wx-import-notebook2.png)
+5. On the left-hand panel, click `URL` and give the asset a name e.g., `prompt-engineering-lab` and paste the following URL:
+   - https://github.com/muqbilk/watsonx-SPE-Lab/blob/main/self-guided-labs/lab-3-prompt-engineering/prompt-engineering.ipynb
 
-1. Open the notebook in a Jupyter environment
-2. Enter your IBM Cloud API key when prompted
-3. Follow the exercises sequentially
-4. Experiment with different prompts and parameters
-5. Complete the challenge exercises
+6. Click `Create` and wait for the notebook and environment to initialise, this can take a few minutes.
+
+You're now ready to start on the Lab!

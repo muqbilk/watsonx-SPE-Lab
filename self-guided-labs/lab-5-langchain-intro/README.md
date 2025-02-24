@@ -12,7 +12,6 @@ The concept of Prompt Templates provided by LangChain allows you to construct pr
 
 ### Getting Started
 Let's get started and unlock the full potential of Prompt Patterns for generating personalized recommendations at XYZ Retail!
-### Here is the [Jupyter notebook](./langchain-prompt-template.ipynb) for this Lab
 
 1. To get started, first navigate to the watsonx.ai Project you created in Lab 0.
 2. Click the `Assets` tab, click `New Asset`.

@@ -17,8 +17,6 @@ We are pleased to announce that the IBM® watsonx.ai™ Timeseries Forecasting A
  These models are trained on a collection of publicly available datasets which permit commercial use. A total of 700 Million timepoints were used from selected datasets from the [Monash Forecasting Repository](https://openreview.net/pdf?id=wEc1mgAjU-) and the [LOTSA](https://arxiv.org/abs/2402.02592) collection. Granite timeseries models currently support multiple input context lengths (512, 1024, and 1536 data points), and are capable of multivariate predictions across a number of channels and IDs. For more information about use cases and training details, see the [model card](https://huggingface.co/ibm-granite/granite-timeseries-ttm-r2) and the IBM Research [paper](https://arxiv.org/pdf/2401.03955).
 
 ### Getting Started
-Let's get started
-### Here is the [Jupyter notebook](./time-series-data.ipynb) for this Lab
 
 1. To get started, first navigate to the watsonx.ai Project you created in Lab 0.
 2. Click the `Assets` tab, click `New Asset`.
