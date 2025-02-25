@@ -1,6 +1,6 @@
-# Lab 7: Use Case Discovery
+# Lab 9: Use Case Discovery
 
-Welcome to Lab 7: Use Case Discovery! In this lab, you'll apply everything you've learned throughout the workshop to define and implement a real-world AI solution.
+Welcome to Lab 9: Use Case Discovery! In this lab, you'll apply everything you've learned throughout the workshop to define and implement a real-world AI solution.
 
 ### Objectives
 
@@ -11,6 +11,8 @@ In this lab, your task is to:
     - **Prompt Engineering** using the **Prompt Lab**.
     - **Retrieval-Augmented Generation (RAG)** - chat with a vector store.
     - **AutoRAG** to automatically optimise your RAG pipeline and find the best parameters.
+    - **Time Series API** if your data/use-case includes time series analysis.
+    - **Agents** if your use-case includes autonomous agents, tool calling etc.
 3. Build an **MVP solution** for the defined use case.
 4. **Evaluate** your solution to assess its effectiveness.
 5. **Present** your solution to the group in a *"show and tell"* format, showcasing how each of the AI tools and techniques were used to create the solution.
@@ -21,6 +23,8 @@ The first step is to discover a use case. Your goal is to identify a relevant pr
 - **Prompt Engineering**: What problem requires a custom model prompt to solve? What prompt engineering techniques would be required?
 - **RAG**: What is a scenario where combining retrieved information with generative capabilities could be beneficial?
 - **AutoRAG**: How can automated optimisation help improve your solution?
+- **Time Series API**: Can you leverage the TS API to analyse your data?
+- **Agents**: Can you leverage Agentic frameworks like LangGraph and ReAct and tool/function calling?
 
 #### Example Ideas!
 1. **Oil reservoir analysis**: Use AI to summarise and analyse historical data from oil reservoirs, including geological, geophysical, and production data, to help the engineers understand the data better.
@@ -36,9 +40,11 @@ The first step is to discover a use case. Your goal is to identify a relevant pr
 Once you’ve identified the use case, the next step is to **define the solution architecture.**
 
 - **Data Sources**: Where will the data come from? (documents, images, database, etc.)
-- **Prompt Engineering**: What specific prompts will be required for the generative model to work effectively? Freeform, structured, multi-shot strategy?
-- **RAG Implementation**: How will you augment the generation with relevant data from your sources? Define the retrieval process and integrate it with generative models.
+- **Prompt Engineering**: What specific prompts will be required for the generative model to work effectively? Freeform, structured, multi-shot strategy? How can LangGraph be leveraged in this approach? i.e. pipeling different prompts together (classify, then summarise?).
+- **RAG Implementation**: How will you augment the generation with relevant data from your sources? Define the retrieval process (from a vector store) and integrate it with generative models.
 - **AutoRAG Optimisation**: How can you use AutoRAG to optimise your solution and automatically adjust parameters for better performance?
+- **Time Series API**: Can you leverage the TS API to analyse your data?
+- **Agents**: Can you leverage Agentic frameworks like LangGraph and ReAct and tool/function calling?
 
 > You can visualise your architecture using tools like diagrams.net (formerly draw.io), or simply describe it in textual format. Ensure to identify each module's role in the solution.
 
